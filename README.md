@@ -1,4 +1,4 @@
-# RabbitMQ消息封装组件
+# <strong>easy-rabbitmq：</strong>RabbitMQ与Spring整合封装组件
 > 对Spring与RabbitMQ整合进行封装整合，使其更简单的对应用项目提供生产、消费等功能。
 
 # 使用文档
