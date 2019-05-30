@@ -9,7 +9,7 @@
     <packaging>jar</packaging>
 
     <name>mq</name>
-    <description>Simpler use rabbit mq.</description>
+    <description>Simpler use rabbit mq</description>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
